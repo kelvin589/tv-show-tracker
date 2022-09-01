@@ -1,0 +1,408 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "backdrop_path": "/mPqIjQk2rqU2mfFLJzDGeRwpIuU.jpg",
+            "first_air_date": "2022-08-05",
+            "genre_ids": [
+                10765,
+                18
+            ],
+            "id": 90802,
+            "name": "The Sandman",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Sandman",
+            "overview": "After years of imprisonment, Morpheus — the King of Dreams — embarks on a journey across worlds to find what was stolen from him and restore his power.",
+            "popularity": 2458.865,
+            "poster_path": "/q54qEgagGOYCq5D1903eBVMNkbo.jpg",
+            "vote_average": 8.2,
+            "vote_count": 381
+        },
+        {
+            "backdrop_path": "/jW61BMd1ZVWPXI7Ts4iC2BTx8Qj.jpg",
+            "first_air_date": "2022-04-11",
+            "genre_ids": [
+                18
+            ],
+            "id": 196572,
+            "name": "The Secret House",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "비밀의 집",
+            "overview": "A story about quitting being a good boy and chasing evil to the end for the sake of the mother and sister who sacrificed for themselves.\n\nA revenge play in which a dirt spoon lawyer chasing the traces of his missing mother walks into the secret surrounding him to fight the world.",
+            "popularity": 1530.429,
+            "poster_path": "/wNN9hJDV45BF2PiJQQVwBCiqLIl.jpg",
+            "vote_average": 6.5,
+            "vote_count": 4
+        },
+        {
+            "backdrop_path": "/56v2KjBlU4XaOv9rVYEQypROD7P.jpg",
+            "first_air_date": "2016-07-15",
+            "genre_ids": [
+                18,
+                10765,
+                9648
+            ],
+            "id": 66732,
+            "name": "Stranger Things",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Stranger Things",
+            "overview": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces, and one strange little girl.",
+            "popularity": 1367.449,
+            "poster_path": "/49WJfeN0moxb9IPfGn8AIqMGskD.jpg",
+            "vote_average": 8.6,
+            "vote_count": 12974
+        },
+        {
+            "backdrop_path": "/9GvhICFMiRQA82vS6ydkXxeEkrd.jpg",
+            "first_air_date": "2022-08-18",
+            "genre_ids": [
+                35,
+                10759
+            ],
+            "id": 92783,
+            "name": "She-Hulk: Attorney at Law",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "She-Hulk: Attorney at Law",
+            "overview": "Jennifer Walters navigates the complicated life of a single, 30-something attorney who also happens to be a green 6-foot-7-inch superpowered hulk.",
+            "popularity": 1148.941,
+            "poster_path": "/qhRex189iu6Cs0dV7ahbuBaRgeK.jpg",
+            "vote_average": 7.8,
+            "vote_count": 89
+        },
+        {
+            "backdrop_path": "/stiQsL31rO4uSksWWSUBU5EdKon.jpg",
+            "first_air_date": "2019-07-25",
+            "genre_ids": [
+                10765,
+                10759
+            ],
+            "id": 76479,
+            "name": "The Boys",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "The Boys",
+            "overview": "A group of vigilantes known informally as “The Boys” set out to take down corrupt superheroes with no more than blue-collar grit and a willingness to fight dirty.",
+            "popularity": 1106.927,
+            "poster_path": "/stTEycfG9928HYGEISBFaG1ngjM.jpg",
+            "vote_average": 8.5,
+            "vote_count": 7049
+        },
+        {
+            "backdrop_path": "/wiE9doxiLwq3WCGamDIOb2PqBqc.jpg",
+            "first_air_date": "2013-09-12",
+            "genre_ids": [
+                18,
+                80
+            ],
+            "id": 60574,
+            "name": "Peaky Blinders",
+            "origin_country": [
+                "GB"
+            ],
+            "original_language": "en",
+            "original_name": "Peaky Blinders",
+            "overview": "A gangster family epic set in 1919 Birmingham, England and centered on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby, who means to move up in the world.",
+            "popularity": 952.12,
+            "poster_path": "/vUUqzWa2LnHIVqkaKVlVGkVcZIW.jpg",
+            "vote_average": 8.6,
+            "vote_count": 7112
+        },
+        {
+            "backdrop_path": "/kOkmTrD8kWLeTXcAEwctg6GwW7t.jpg",
+            "first_air_date": "2017-02-20",
+            "genre_ids": [
+                10751,
+                35
+            ],
+            "id": 91759,
+            "name": "Come Home Love: Lo and Behold",
+            "origin_country": [
+                "HK"
+            ],
+            "original_language": "cn",
+            "original_name": "愛．回家之開心速遞",
+            "overview": "",
+            "popularity": 1942.442,
+            "poster_path": "/5hYejOX8mkPuppAjJy6E37EoD6H.jpg",
+            "vote_average": 6,
+            "vote_count": 3
+        },
+        {
+            "backdrop_path": "/fMvRiykSZrb5KCQnHxe3dNN5XKX.jpg",
+            "first_air_date": "2022-06-27",
+            "genre_ids": [
+                18
+            ],
+            "id": 194619,
+            "name": "A Family Affair",
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "A Family Affair",
+            "overview": "An inheritance from the late matriarch of the Estrellas intertwines the life of Cherry Red with Dave, Paco, Seb, and Drew. Amid the romance that arose between her and two of the four brothers, Cherry's past unravels and exposes deeply buried secrets.",
+            "popularity": 914.449,
+            "poster_path": "/gkap4pWN722E0UK9WNL2vjGnAtw.jpg",
+            "vote_average": 5,
+            "vote_count": 2
+        },
+        {
+            "backdrop_path": "/xlKKD1TXJvh0YYlVPqqQ3g3ZUjM.jpg",
+            "first_air_date": "2018-07-01",
+            "genre_ids": [
+                16,
+                10759,
+                10765
+            ],
+            "id": 80020,
+            "name": "Super Dragon Ball Heroes",
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "スーパードラゴンボールヒーローズ",
+            "overview": "Trunks returns from the future to train with Goku and Vegeta. However, it disappears without warning. Then the mysterious Fu bursts in, telling them that Trunks has been imprisoned in the Prison Planet, a mysterious complex in an unknown place in the universes. The group seeks the dragon balls to free Trunks, but an endless battle awaits them! Will Goku and the others rescue Trunks and escape the Prison Planet?",
+            "popularity": 893.528,
+            "poster_path": "/jYeTfpxS3IzgqKkYCjmdCKwq8PW.jpg",
+            "vote_average": 7.6,
+            "vote_count": 2674
+        },
+        {
+            "backdrop_path": "/xA3Bh5VjiarQLbYH9xzpxiN1IMU.jpg",
+            "first_air_date": "2016-01-25",
+            "genre_ids": [
+                80,
+                10765
+            ],
+            "id": 63174,
+            "name": "Lucifer",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Lucifer",
+            "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+            "popularity": 887.859,
+            "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+            "vote_average": 8.5,
+            "vote_count": 12247
+        },
+        {
+            "backdrop_path": "/iSA7iVTzExSuXvjDEoFELwY5JgT.jpg",
+            "first_air_date": "2019-07-09",
+            "genre_ids": [
+                10764
+            ],
+            "id": 90521,
+            "name": "Love Island",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Love Island",
+            "overview": "American version of the British dating reality competition in which ten singles come to stay in a villa for a few weeks and have to couple up with one another. Over the course of those weeks, they face the public vote and might be eliminated from the show. Other islanders join and try to break up the couples.",
+            "popularity": 1885.583,
+            "poster_path": "/47X1h91UUfhMxO42KV9fKoGAVMC.jpg",
+            "vote_average": 7.1,
+            "vote_count": 51
+        },
+        {
+            "backdrop_path": null,
+            "first_air_date": "2022-05-30",
+            "genre_ids": [
+                35,
+                10765
+            ],
+            "id": 152296,
+            "name": "Love in 40 Days",
+            "origin_country": [
+                "PH"
+            ],
+            "original_language": "tl",
+            "original_name": "Love in 40 Days",
+            "overview": "After getting involved in a fatal car crash, a competitive career woman arrives in an uncanny purgatory. While settling her unfinished businesses as a lingering spirit, she meets and finds her soulmate in a rebellious scion with a third eye.",
+            "popularity": 872.74,
+            "poster_path": "/x7qeqSNB5wN93U2EvOniELSXuNz.jpg",
+            "vote_average": 3.1,
+            "vote_count": 4
+        },
+        {
+            "backdrop_path": "/suopoADq0k8YZr4dQXcU6pToj6s.jpg",
+            "first_air_date": "2011-04-17",
+            "genre_ids": [
+                10765,
+                18,
+                10759
+            ],
+            "id": 1399,
+            "name": "Game of Thrones",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Game of Thrones",
+            "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+            "popularity": 856.65,
+            "poster_path": "/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+            "vote_average": 8.4,
+            "vote_count": 18493
+        },
+        {
+            "backdrop_path": "/ic7YfRS52N3m4oalxoOIT665C33.jpg",
+            "first_air_date": "2020-07-08",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 104877,
+            "name": "Love Is In The Air",
+            "origin_country": [
+                "TR"
+            ],
+            "original_language": "tr",
+            "original_name": "Sen Çal Kapımı",
+            "overview": "Eda, who ties all her hopes to her education, confronts Serkan Bolat, who cuts off her international education scholarship and leaves her with high school diploma. Serkan Bolat offers Eda to give her scholarship back if she pretends to be his fiance for two months. Although Eda rejects the offer of this man as she hates him, she has to accept it when the conditions change. While pretending to be engaged, Serkan and Eda begin to experience a passionate, challenging relationship that will make them forget all they know right. Because love is difficult. And that's why it's amazing.",
+            "popularity": 837.827,
+            "poster_path": "/bE71f9A3eztjcd5JT3MmHB8MbzA.jpg",
+            "vote_average": 8.2,
+            "vote_count": 2573
+        },
+        {
+            "backdrop_path": "/eGAOc17X55kIVjhPhflRbi8DrgF.jpg",
+            "first_air_date": "2022-06-06",
+            "genre_ids": [
+                10766,
+                35,
+                18
+            ],
+            "id": 202740,
+            "name": "Lua de Mel",
+            "origin_country": [
+                "PT"
+            ],
+            "original_language": "pt",
+            "original_name": "Lua de Mel",
+            "overview": "",
+            "popularity": 829.503,
+            "poster_path": "/8lIzd4bSU1xoWwcFihI3BzeWsz3.jpg",
+            "vote_average": 2,
+            "vote_count": 1
+        },
+        {
+            "backdrop_path": "/xefsQ5rz9PWN8mO7UZLoiPk9nuV.jpg",
+            "first_air_date": "2022-06-29",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 197067,
+            "name": "Extraordinary Attorney Woo",
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "이상한 변호사 우영우",
+            "overview": "Brilliant attorney Woo Young-woo tackles challenges in the courtroom and beyond as a newbie at a top law firm and a woman on the autism spectrum.",
+            "popularity": 749.62,
+            "poster_path": "/zuNOQVI4rEaqwknrfQUVKtlKE2C.jpg",
+            "vote_average": 9.1,
+            "vote_count": 67
+        },
+        {
+            "backdrop_path": "/7J5d7K4JBDZ4IDODNX3THLggtM5.jpg",
+            "first_air_date": "2005-03-27",
+            "genre_ids": [
+                18
+            ],
+            "id": 1416,
+            "name": "Grey's Anatomy",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Grey's Anatomy",
+            "overview": "Follows the personal and professional lives of a group of doctors at Seattle’s Grey Sloan Memorial Hospital.",
+            "popularity": 746.292,
+            "poster_path": "/zPIug5giU8oug6Xes5K1sTfQJxY.jpg",
+            "vote_average": 8.3,
+            "vote_count": 8271
+        },
+        {
+            "backdrop_path": "/eiRLR7HN0hdyYsahegb0FP1Yra0.jpg",
+            "first_air_date": "2022-07-28",
+            "genre_ids": [
+                18,
+                9648
+            ],
+            "id": 110531,
+            "name": "Pretty Little Liars: Original Sin",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Pretty Little Liars: Original Sin",
+            "overview": "Twenty years ago, a series of tragic events almost ripped the blue-collar town of Millwood apart. Now, in the present day, a group of disparate teen girls finds themselves tormented by an unknown Assailant and made to pay for the secret sin their parents committed two decades ago, as well as their own.",
+            "popularity": 739.992,
+            "poster_path": "/igmLgglembi9mZ2RYQRaGKigbvq.jpg",
+            "vote_average": 7.9,
+            "vote_count": 50
+        },
+        {
+            "backdrop_path": "/35SS0nlBhu28cSe7TiO3ZiywZhl.jpg",
+            "first_air_date": "2018-05-02",
+            "genre_ids": [
+                10759,
+                18,
+                35
+            ],
+            "id": 77169,
+            "name": "Cobra Kai",
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Cobra Kai",
+            "overview": "This Karate Kid sequel series picks up 30 years after the events of the 1984 All Valley Karate Tournament and finds Johnny Lawrence on the hunt for redemption by reopening the infamous Cobra Kai karate dojo. This reignites his old rivalry with the successful Daniel LaRusso, who has been working to maintain the balance in his life without mentor Mr. Miyagi.",
+            "popularity": 716.438,
+            "poster_path": "/6POBWybSBDBKjSs1VAQcnQC1qyt.jpg",
+            "vote_average": 8.2,
+            "vote_count": 4656
+        },
+        {
+            "backdrop_path": "/5y2sHlCndnEZC6MjkJ4w40WFzo5.jpg",
+            "first_air_date": "2022-02-07",
+            "genre_ids": [
+                18,
+                10766
+            ],
+            "id": 154911,
+            "name": "Além da Ilusão",
+            "origin_country": [
+                "BR"
+            ],
+            "original_language": "pt",
+            "original_name": "Além da Ilusão",
+            "overview": "",
+            "popularity": 715.818,
+            "poster_path": "/8BzuwDAMamf5TX4TepbDDEq7ima.jpg",
+            "vote_average": 6.5,
+            "vote_count": 13
+        }
+    ],
+    "total_pages": 6769,
+    "total_results": 135379
+}

@@ -1,0 +1,432 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/ebDi6FNKlDJqAzzaTtBxoX68Lbz.jpg",
+            "genre_ids": [
+                10759,
+                18,
+                10765
+            ],
+            "id": 4515,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Lois \u0026 Clark: The New Adventures of Superman",
+            "overview": "A much more lavish version of the popular Superman television series which had first aired forty years earlier, Lois \u0026 Clark focused more on the Man of Steel's early adult years in Metropolis. With the unknowing help of Lois Lane, Clark Kent created Superman there in Metropolis after finding work at the world-famous Daily Planet newspaper, where he meets fellow reporter Lois Lane.",
+            "popularity": 47.964,
+            "poster_path": "/1LbPs6i1h4BKjVUwK5S9GjPCydi.jpg",
+            "first_air_date": "1993-09-12",
+            "name": "Lois \u0026 Clark: The New Adventures of Superman",
+            "vote_average": 7.122,
+            "vote_count": 316
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/xLziWzBx56vKQCwqP6vQy8Dv7Jv.jpg",
+            "genre_ids": [
+                10765,
+                35,
+                10751,
+                18
+            ],
+            "id": 4482,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Bewitched",
+            "overview": "Samantha Stephens is a seemingly normal suburban housewife who also happens to be a genuine witch, with all the requisite magical powers. Her husband Darrin insists that Samantha keep her witchcraft under wraps, but situations invariably require her to indulge her powers while keeping her bothersome mother Endora at bay.",
+            "popularity": 53.05,
+            "poster_path": "/7UZVO1SclbgVWM2ELrwWGaS7i94.jpg",
+            "first_air_date": "1964-09-17",
+            "name": "Bewitched",
+            "vote_average": 7.958,
+            "vote_count": 553
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/kUe81NQRU3PS0JNzKynsIUrdRVg.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 8792,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "きみはペット",
+            "overview": "Tramps Like Us is a Japanese josei manga series by Yayoi Ogawa. It is about Sumire, a young professional woman who takes in a younger man as a pet, and her attempts to keep her coworkers and conventionally perfect boyfriend from finding out about her pet. It also deals with the romantic attraction between Sumire and her pet.\n\nIt was serialised by Kodansha and was released in 14 volumes between 2000 and 2005, with an additional side-story volume being released in 2002. The volumes, barring the side-story volume, were published in English and German by Tokyopop, French by Kurokawa and Italian by Star Comics. The manga was adapted to a TV drama series that aired in Japan on TBS in 2003, and a South Korean film due out in 2011.",
+            "popularity": 23.238,
+            "poster_path": "/tKAvDizqTrI5CA8hnj5wbWCQT00.jpg",
+            "first_air_date": "2003-04-09",
+            "name": "You're My Pet",
+            "vote_average": 8.0,
+            "vote_count": 5
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/nXmxvy4VyiaYVVINJYARSD3CTLi.jpg",
+            "genre_ids": [
+                35,
+                10751,
+                18
+            ],
+            "id": 7283,
+            "origin_country": [
+                "ES"
+            ],
+            "original_language": "es",
+            "original_name": "Los Serrano",
+            "overview": "Los Serrano is a Spanish television drama comedy which premiered on 22 April 2003 and aired on Telecinco. It tells the story of the Serrano family, who lives in Round Santa Justa No 133, located in the fictional neighborhood of Santa Justa, in the Ribera del Manzanares, in Madrid. The success of the series in Spain and in several other countries in Europe and elsewhere helped launch the career of several young actors and actresses, especially actor and musician Fran Perea, who acts in the series and sings its theme song, \"1 más 1 son 7\".",
+            "popularity": 25.322,
+            "poster_path": "/w9hPecVLyCkbnJLLdjFu67URBZP.jpg",
+            "first_air_date": "2003-04-22",
+            "name": "Los Serrano",
+            "vote_average": 6.0,
+            "vote_count": 23
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/3Ujyp6wzwcfPp76K7XqP5CYYxPE.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 3215,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "커피프린스 1호점",
+            "overview": "Han-gyeol is a smart young man who hates to be tied down to one career in his life. Abhorring the idea of joining the family business, he is ordered by his grandmother to manage a cafe. Unable to disobey his grandmother, he reluctantly takes over the responsibility of running a cafe and begins to immerse himself in the gourmet coffee business. One day, he meets Eun-chan, whom he mistakes as a boy, and learns the meaning of true love...",
+            "popularity": 23.919,
+            "poster_path": "/6tKNlAXwKfRzLeuBOomr1N9gRsU.jpg",
+            "first_air_date": "2007-07-02",
+            "name": "Coffee Prince",
+            "vote_average": 8.204,
+            "vote_count": 164
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uHiQS8rMaXSj5Jb9Rd7nUTDMVMw.jpg",
+            "genre_ids": [
+                16,
+                35,
+                10751
+            ],
+            "id": 2009,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Rocket Power",
+            "overview": "The daily lives of four friends who enjoy extreme sports, surfing, and getting into some crazy situations.",
+            "popularity": 26.877,
+            "poster_path": "/ksmPNBALLlWzL24Jl9CtoYMsXsN.jpg",
+            "first_air_date": "1999-08-16",
+            "name": "Rocket Power",
+            "vote_average": 7.844,
+            "vote_count": 263
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/SOqwVmQw9qb4bE5y5Hdx12CPL8.jpg",
+            "genre_ids": [
+                35
+            ],
+            "id": 3921,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Clueless",
+            "overview": "CLUELESS is a television series spun off from the 1995 teen film of the same name. The series originally premiered on ABC on September 20, 1996 as a part of the TGIF lineup during its first season. The show then spent its last two seasons on UPN ending on May 25, 1999.",
+            "popularity": 16.952,
+            "poster_path": "/oFwUrOR4SmbRycom20q8AbCSAbS.jpg",
+            "first_air_date": "1996-09-20",
+            "name": "Clueless",
+            "vote_average": 6.1,
+            "vote_count": 21
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/g1xn0ce0PQ5Kk7FSj6lMuLNqyiX.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 16420,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "꽃보다 남자",
+            "overview": "A working class girl winds up at an exclusive prep school. Unassuming high school girl Jan Di stands up to -- and eventually falls for -- a spoiled rich kid who belongs to the school's most powerful clique.",
+            "popularity": 65.458,
+            "poster_path": "/Apn2ccFuy7uahKAd0Kb9DbQQvNY.jpg",
+            "first_air_date": "2009-01-05",
+            "name": "Boys Over Flowers",
+            "vote_average": 8.28,
+            "vote_count": 1512
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2Nl04ZmLus8mvsPAcuiarFfjO1h.jpg",
+            "genre_ids": [],
+            "id": 16321,
+            "origin_country": [
+                "AR"
+            ],
+            "original_language": "es",
+            "original_name": "Casi Ángeles",
+            "overview": "",
+            "popularity": 19.372,
+            "poster_path": "/udjzwnd0foTPIJUZKW579YCHvb1.jpg",
+            "first_air_date": "2007-03-21",
+            "name": "Casi Ángeles",
+            "vote_average": 7.8,
+            "vote_count": 14
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/pXcBTvoFIee7cOwqE6BUF9wFKRY.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 16135,
+            "origin_country": [
+                "AR"
+            ],
+            "original_language": "es",
+            "original_name": "Muñeca Brava",
+            "overview": "Muñeca Brava is an award-winning Argentine telenovela, produced by Telefe in 1998 - 1999. The television series was broadcast in more than 80 countries over the world, enjoying high ratings.\n\nThe show was written by Enrique Oscar Torres and directed by Hernán Abrahamnsohn, Gaita Aragona and Víctor Stella First episode was aired in Argentina on 10 October 1998 on channel Telefe The play was filmed mainly in Argentina. Some of the episodes were filmed in Italy and Spain. The programme is known for launching the international career of Natalia Oreiro.",
+            "popularity": 16.647,
+            "poster_path": "/ojTqIVMv9VegHrsOSGcHYhKROrG.jpg",
+            "first_air_date": "1998-11-16",
+            "name": "Wild Angel",
+            "vote_average": 7.365,
+            "vote_count": 52
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/ggm7Mpl6t8Ur2Eiby0UvMlsrJsP.jpg",
+            "genre_ids": [
+                18,
+                35
+            ],
+            "id": 1101,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "My So-Called Life",
+            "overview": "The life of a 15 year-old high school student, whose angst-ridden journey through adolescence, friendship, parents, and life teaches her what it means to grow up.",
+            "popularity": 14.438,
+            "poster_path": "/a2mumQ8QgJ3uDz14P7iwnk4x8mO.jpg",
+            "first_air_date": "1994-08-25",
+            "name": "My So-Called Life",
+            "vote_average": 7.6,
+            "vote_count": 93
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/4Ok0VR27UF18dzWJXJWHMYFWhLo.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 171,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Martin",
+            "overview": "Sassy sitcom centering on radio and television personality Martin Payne. Series focuses on his romantic relationship with girlfriend Gina, her best friend Pam and escapades with best friends Tommy and Cole.",
+            "popularity": 20.344,
+            "poster_path": "/inQQEpHiaSy8BEd9XEFF2W39vO0.jpg",
+            "first_air_date": "1992-08-27",
+            "name": "Martin",
+            "vote_average": 7.8,
+            "vote_count": 87
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/mSn5IrrLB6drP1gfwydYAakZG7Y.jpg",
+            "genre_ids": [
+                35,
+                18,
+                9648
+            ],
+            "id": 1998,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "Moonlighting",
+            "overview": "After being duped and going bankrupt, model Maddie is convinced by David to become a partner in a detective agency. Together they solve various cases, while getting comfortable with each other.",
+            "popularity": 22.318,
+            "poster_path": "/lrx6v9iD7WWkzkYMCvikvG3DIFp.jpg",
+            "first_air_date": "1985-03-03",
+            "name": "Moonlighting",
+            "vote_average": 7.6,
+            "vote_count": 256
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/1EiKVyqsbyOLDgdD6znN8fKrsZu.jpg",
+            "genre_ids": [
+                18,
+                10751
+            ],
+            "id": 1446,
+            "origin_country": [
+                "AR"
+            ],
+            "original_language": "es",
+            "original_name": "Floricienta",
+            "overview": "",
+            "popularity": 63.8,
+            "poster_path": "/uRqpxMk3UE8WWhk98ktiBABm6dY.jpg",
+            "first_air_date": "2004-03-15",
+            "name": "Floricienta",
+            "vote_average": 8.106,
+            "vote_count": 123
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/lOluFMXTGaXbdwuLd003odAwfqf.jpg",
+            "genre_ids": [
+                35,
+                18,
+                9648
+            ],
+            "id": 62266,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "킬미, 힐미",
+            "overview": "Cha Do Hyun is a rich heir to a family company with one major problem. Due to suppressed childhood trauma, he suffers from dissociative identity disorder manifested in 7 unique personalities who are out of his control. In order to overcome this disorder in secret, he hires a first year medical resident to help him heal by killing off each personality one by one.",
+            "popularity": 20.873,
+            "poster_path": "/dNH6NO0akHMIqbq5EC4qnCeeuC6.jpg",
+            "first_air_date": "2015-01-07",
+            "name": "Kill Me, Heal Me",
+            "vote_average": 8.086,
+            "vote_count": 139
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/HZLzCeiyos5erasKMZNspEfrY4.jpg",
+            "genre_ids": [
+                35,
+                18,
+                10751
+            ],
+            "id": 67084,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "신데렐라와 네명의 기사",
+            "overview": "Eun Ha-Won is a college student. She is a bright girl who wants to be a veterinarian, but at home she is lonely. She is isolated from her family members. Eun Ha-Won lives with father, step-mother and step-sister after her mother died in a car accident. One day, she helps a mysterious old man. The old man suggests to her to live in a mansion and pursue her dream of becoming a veterinarian. Since than, she moves into the mansion and lives with three cousins Kang Ji-Woon, Kang Hyun-Min, Kang Seo-Woo and their bodyguard Lee Yoon-Sung.",
+            "popularity": 28.784,
+            "poster_path": "/jgE63Z609gr10IoFu4pe4OdliBr.jpg",
+            "first_air_date": "2016-08-12",
+            "name": "Cinderella and Four Knights",
+            "vote_average": 7.3,
+            "vote_count": 43
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/31tQrLnlOTqcvaF2dQdBYBwg20L.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 67136,
+            "origin_country": [
+                "US"
+            ],
+            "original_language": "en",
+            "original_name": "This Is Us",
+            "overview": "Follows the lives and families of three adults living and growing up in the United States of America in present and past times. As their paths cross and their life stories intertwine in curious ways, we find that several of them share the same birthday - and so much more than anyone would expect.",
+            "popularity": 74.524,
+            "poster_path": "/jFElG5Xi87bBVdv2rpaclvuyfnw.jpg",
+            "first_air_date": "2016-09-20",
+            "name": "This Is Us",
+            "vote_average": 8.239,
+            "vote_count": 1137
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/sk0bNoOOS1mR2qEalDpb8qmpVLt.jpg",
+            "genre_ids": [
+                35,
+                18
+            ],
+            "id": 64320,
+            "origin_country": [
+                "KR"
+            ],
+            "original_language": "ko",
+            "original_name": "오 마이 비너스",
+            "overview": "Kim Young Ho is a personal trainer for Hollywood stars. Even though he comes from a wealthy family background, he suffered a devastating injury during his childhood days. Now, he overcomes his problems with patience and stubbornness. Meanwhile, Kang Joo Eun is 33-years-old lawyer. She has struggled to support her family. Now, she is overweight and challenge her-selves for a diet.",
+            "popularity": 42.388,
+            "poster_path": "/b5OmYuMV2np2Zh0Z5sYiCiymVGX.jpg",
+            "first_air_date": "2015-11-16",
+            "name": "Oh My Venus",
+            "vote_average": 8.343,
+            "vote_count": 223
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/baO2jzutSsHyDW7eJlSTAGUzSDx.jpg",
+            "genre_ids": [
+                16,
+                35
+            ],
+            "id": 62565,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "俺物語!!",
+            "overview": "Takeo Godau is a giant guy with a giant heart. Too bad the girls don't want him! (They always go for his good-looking best friend, Makoto Sunakawa.) Used to being on the sidelines, Takeo simply stands tall and accepts his fate. But one day when he saves a girl named Rinko Yamato from a harasser on the train, his (love!) life suddenly takes an incredible turn! Takeo can hardly believe it when he crosses paths with Rinko again, and he finds himself falling in love with her... But with handsome Suna around, does Takeo even stand a chance?",
+            "popularity": 15.451,
+            "poster_path": "/vDTSx6BuelrdAO1CjVGs9MuUnMP.jpg",
+            "first_air_date": "2015-04-09",
+            "name": "My Love Story!!",
+            "vote_average": 8.7,
+            "vote_count": 298
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/tYwwbdfu16AK386j3Q7fixpdUKR.jpg",
+            "genre_ids": [
+                16,
+                35,
+                18
+            ],
+            "id": 62602,
+            "origin_country": [
+                "JP"
+            ],
+            "original_language": "ja",
+            "original_name": "アオハライド",
+            "overview": "At the end of her first year of high school, Futaba Yoshioka suddenly has a chance encounter with her first love, Kou Tanaka. Three years ago, he transferred schools before she was able to say how she felt about him. After meeting each other again, Futaba realizes that he has gone through many changes. He acts more cool and even had his last name changed to Mabuchi. Gradually the two rekindle their love while piecing together what had happened in the time that they were apart.",
+            "popularity": 15.942,
+            "poster_path": "/lAXKWt3IiKFJ1zOsuB6lYWIhovx.jpg",
+            "first_air_date": "2014-07-08",
+            "name": "Blue Spring Ride",
+            "vote_average": 8.594,
+            "vote_count": 278
+        }
+    ],
+    "total_pages": 500,
+    "total_results": 10000
+}
